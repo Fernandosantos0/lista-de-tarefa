@@ -1,0 +1,13 @@
+@media screen and (max-width: 899px) {
+	
+	#input-tarefa {
+		min-width: 100%;
+	}
+	
+	#btn-cadastrar {
+		display: block;
+		margin-inline: auto;
+		margin-top: 15px;
+	}
+	
+}
